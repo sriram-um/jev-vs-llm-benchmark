@@ -55,7 +55,7 @@ Two caveats, stated here rather than buried in a footnote:
 | scenarios | TBD | 500 |
 | dataset sha256 | TBD | `97d02c76ad04bfab...` |
 | seed | TBD | 7 |
-| code revision | TBD | `not a git repo` |
+| code revision | TBD | `e10afc3` |
 
 **Prices used:** `jev` $0.042/$0.000 per MTok (verified 2026-09-20), `gpt-4o-mini` $0.150/$0.600 per MTok (verified 2026-09-20), `claude-haiku-4-5` $1.000/$5.000 per MTok (verified 2026-09-20), `claude-sonnet-5` $2.000/$10.000 per MTok (verified 2026-09-20), `claude-opus-5` $5.000/$25.000 per MTok (verified 2026-09-20).
 

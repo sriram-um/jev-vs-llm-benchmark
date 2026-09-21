@@ -7,7 +7,7 @@
     "n_scenarios": 500,
     "dataset_sha256": "97d02c76ad04bfab7449f95b61e6684b349376d6661aa539f5c2755e002fc8c0",
     "seed": 7,
-    "git_sha": null,
+    "git_sha": "e10afc3",
     "simulated_warning": null
   },
   "evaluators": [
