@@ -1,0 +1,19 @@
+# Core
+pydantic>=2.7
+pydantic-settings>=2.2
+httpx>=0.27
+
+# Evaluators
+typesafe-sdk>=0.7.0        # Jev / System One  (https://docs.typesafe.ai/sdk/python.md)
+openai>=1.40               # Structured Outputs via chat.completions.parse
+anthropic>=1.7             # LLM_PROVIDER=bedrock, via AsyncAnthropicBedrockMantle
+tiktoken>=0.7              # sizes SIMULATED requests only; live paths use reported usage
+
+# Analysis
+numpy>=1.26
+matplotlib>=3.8
+
+# Runner / tests
+tqdm>=4.66
+pytest>=8.0
+pytest-asyncio>=0.23

@@ -1,0 +1,26 @@
+{
+  "path": "scenarios.jsonl",
+  "n": 500,
+  "sha256": "97d02c76ad04bfab7449f95b61e6684b349376d6661aa539f5c2755e002fc8c0",
+  "label_provenance": "labels assigned first; ticket text generated from label",
+  "difficulty_mix": {
+    "ambiguous": 83,
+    "with_distractors": 99,
+    "with_negation": 66,
+    "with_mixed_dates": 52
+  },
+  "department_counts": {
+    "billing": 118,
+    "infrastructure_outage": 133,
+    "account_security": 130,
+    "feature_request": 119
+  },
+  "urgency_counts": {
+    "0": 85,
+    "1": 110,
+    "2": 126,
+    "3": 115,
+    "4": 64
+  },
+  "escalate_rate": 0.436
+}

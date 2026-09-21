@@ -1,0 +1,13 @@
+.env
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/
+
+# Generated artefacts: records.jsonl is large so keep it out of git,
+# but results/summary.json and figures/ are tracked for README/ARTICLE display.
+results/records.jsonl
+results/*.partial.jsonl
+
