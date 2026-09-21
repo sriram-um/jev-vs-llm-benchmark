@@ -360,7 +360,3 @@ The dataset is deterministic from seed 7. `make dataset` regenerates it; the
 sha256 in the manifest must match.
 
 ---
-
-*Methodology, code, and data: [github.com/\<your-org\>/jev-vs-llm-benchmark](.).*
-*Price verification dates are in `src/config.py`. Re-verify before quoting
-any cost number publicly.*
